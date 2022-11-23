@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Document</title>
+</head>
+<body>
+ <nav>
+ <a href=""></home>
+ <a href=""></ser name>
+ <a href=""></first name>
+ <a href=""></middle name>
+ <a href=""></gender>
+ <header>
+ <h1>register to continue</h1>
+ <form action="">
+ <div>
+ <label for="your name"></label>
+ <input type="text". name="name".size="25" />
+ </dev>
+
+ </dev>
+ <fieldset>
+ <legend>gender</legend>
+ <label><input type="radio" name="gender" id="gender"/>male/label>
+ <label><input type="radio" name="gender" id="gender"/>female/label>
+ </fieldset>
+ </div>
+ <div>
+ <label for=">cause">/label>
+ <input type="cause name" name="information technology" size="25"/>
+ </div>
+
+ <div>
+ <label for="cause"confirm cause </label>
+ <input type="diploma in information technology" name=" information technology" size="25"/>
+ </div>
+
+ </div>
+ <label
+  <input type="checkbox" name="teras" id="terms"/>accept terms and condition</lable>
+
+ <div>
+ <input type="submit" value="submit" />
+ </form>
+
+ </header>
+</body>
